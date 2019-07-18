@@ -41,9 +41,6 @@ asdf
 asd
 
 
-sdafasdf
-dsa
-ds
 adfs
 dfs
 
